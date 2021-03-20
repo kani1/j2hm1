@@ -5,11 +5,11 @@ public class PhoneMemory {
 
 
     public PhoneMemory(String phoneMemory) {
-        this.phoneMemory =phoneMemory ;
-
+        this.phoneMemory = phoneMemory;
     }
 
-    public String getPhoneMemory() { return phoneMemory; }
-
+    public String getPhoneMemory() {
+        return phoneMemory;
+    }
 
 }
